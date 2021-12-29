@@ -1,0 +1,3 @@
+-Was der Print-Befehl macht
+-Wie man Sachen ausgibt(Hallo Welt Programm schreiben)
+-Datentypen können nicht gemixt werden(zeigen bei nächstem Kapitel(Operanden))
