@@ -1,0 +1,3 @@
+-Erklären was if...else Bedingungen machen und wieso man sie braucht
+-weitere Besipiele vorzeigen mit(==; > ; < ; >= ; <= ;
+-and/or;

@@ -1,0 +1,2 @@
+-Erklären was eine Bibliothek ist und was import xy macht
+-1/2 Beispiele zu Random Bibliothek
