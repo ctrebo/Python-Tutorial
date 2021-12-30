@@ -1,5 +1,5 @@
 """
-                                                        Zahl erraten
+Zahl erraten
 
 Mithilfe der Random-Bibliothek soll ein kleines Spiel programmiert werden, bei dem der Spieler eine Zahl
 in einem gewissen Bereich erraten soll                                                    

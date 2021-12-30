@@ -7,15 +7,29 @@ while True:
 
 #while-Schleife mit Bedingung
 """
-x = 0
-while x<=6:
-    print(x)
-    x += 1
+i = 0
+while i<=6:
+    print(i)
+    i += 1
 """
 
 
 #for-Schleife
 """
-for x in range(7):
-    print(x)
+for i in range(7):
+    print(i)
+"""
+
+
+#for-Schleife von 5 bis 15(15 nicht eingeschlossen)
+"""
+for i in range(5, 15):
+    print(i)
+"""
+
+
+#for-Schleife von 5 bis 16(15 nicht eingeschlossen) in zweierschritten
+"""
+for i in range(5, 15, 2):
+    print(i)
 """
