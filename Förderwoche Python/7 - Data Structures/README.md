@@ -1,2 +1,6 @@
--Zu viel um alles schon vorher zu schreiben...
--Indexing, appending, droping
+-Ausgabe von Listen
+-Index
+-Loops
+-append
+-drop
+-len()
