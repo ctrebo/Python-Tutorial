@@ -13,4 +13,6 @@
 
 <h2>Projekte</h2>
 
-Mini-Projects
+Schere, Stein, Papier
+Zahlen erraten(Kapitel 5 | Random)
+
