@@ -7,6 +7,8 @@ while True:
 
     #Überprüfen, ob der Spieler (noch) eine Runde spielen will
     play = input("Willst du eine Runde SCHERE STEIN PAPIER spielen? [j/n]: ").lower()
+    while play != "j" and play != "n":
+        play = input("Willst du eine Runde SCHERE STEIN PAPIER spielen? [j/n]: ").lower()
 
     if play == "n":
         break
@@ -18,7 +20,6 @@ while True:
     while player_choice not in options:
         player_choice = input("Wähle zwischen Schere, Stein, Papier :").capitalize()
 
-    
     #Auswahl des Computers
     computer_choice = options[random.randrange(0,2)]
 
@@ -27,22 +28,19 @@ while True:
     #Überprüfen wer gewonnen hat
     if player_choice == computer_choice:
         print("Ausgleich")
-        play = 0
 
     elif player_choice == "Schere" and computer_choice == "Papier":
         print("Spieler hat gewonnen")
-        play = 0
-
+        
     elif player_choice == "Stein" and computer_choice == "Schere":
         print("Spieler hat gewonnen")
-        play = 0
+        
     elif player_choice == "Papier" and computer_choice == "Stein":
         print("Spieler hat gewonnen")
-        play = 0
         
     else:
         print("Computer hat gewonnen")
-        play = 0
+
 
         
         
