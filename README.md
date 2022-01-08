@@ -13,6 +13,6 @@
 
 <h2>Projekte</h2>
 
-Schere, Stein, Papier
+Schere, Stein, Papier<br>
 Zahlen erraten(Kapitel 5 | Random)
 
