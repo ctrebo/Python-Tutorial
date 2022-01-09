@@ -15,5 +15,6 @@
 <h2>Projekte</h2>
 
 Schere, Stein, Papier<br>
-Zahlen erraten(Kapitel 5 | Random)
+Zufallszahl erraten(5 - Random)<br>
+
 
