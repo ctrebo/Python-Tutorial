@@ -23,7 +23,7 @@ while True:
     #Auswahl des Computers
     computer_choice = options[random.randrange(0,2)]
 
-    print("Spieler --> " + player_choice + "      Computer --> " + computer_choice)
+    print(f"Spieler -->{player_choice}      Computer --> {computer_choice}")
         
     #Überprüfen wer gewonnen hat
     if player_choice == computer_choice:
