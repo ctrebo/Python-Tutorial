@@ -1,6 +1,7 @@
-### Files für Förderwochenkurs Python
+<h1><center>Files für Förderwochenkurs Python</center></h1>
 
-<h1><center>Kapitelübersicht</center></h1>
+
+<h2>Kapitelübersicht</h2>
 1 - Data-Type <br>
 2 - Print <br>
 3 - Operanden <br>
