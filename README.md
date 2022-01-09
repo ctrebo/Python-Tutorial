@@ -34,7 +34,7 @@
   <summary>Table of Contents</summary>
   <a href="#about-the-project">About The Project</a>
   <ol>
-    <li><a href="#dt">Data-Type</a></li>     
+         
     <li><a href="#print">Print</a></li>
     <li><a href="#operanden">Operanden</a></li>
     <li><a href="#if-else">If-Else</a></li>
@@ -47,14 +47,13 @@
   <li><a href="#projects">Mini Projects</a></li>
 </details>
 <h2 id=dt">Data-Type</h2>     
-    <h2 id=print">Print</h2>
-    <h2 id=operanden">Operanden</h2>
-    <h2 id=if-else">If-Else</h2>
-    <h2 id=random">Random</h2>
-    <h2 id=while-for">While For</h2>
-    <h2 id=ds">Data Structures</h2>
-    <h2 id=fstrings">f'Strings</h2>
-    <h2 id=funktionen">Funktionen</h2>
+    
+    
+    
+    
+    
+    
+   
 
 
 <!-- ABOUT THE PROJECT -->
@@ -95,8 +94,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- Data Type -->
+<li><a href="#dt">Data-Type</a></li>
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
@@ -131,8 +130,8 @@ _Below is an example of how you can instruct your audience on installing and set
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- Print -->
+<h2 id=print">Print</h2>
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -142,8 +141,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-<!-- ROADMAP -->
-## Roadmap
+<!-- Operanden -->
+<h2 id=operanden">Operanden</h2>
 
 - [x] Add Changelog
 - [x] Add back to top links
@@ -159,8 +158,8 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
+<!-- If-else -->
+<h2 id=if-else">If-Else</h2>
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -177,8 +176,8 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<!-- LICENSE -->
-## License
+<!-- Random -->
+<h2 id=random">Random</h2>
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
@@ -186,8 +185,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
+<!-- While For -->
+<h2 id=while-for">While For</h2>
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
@@ -197,8 +196,8 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- Data Structures -->
+<h2 id=ds">Data Structures</h2>
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
@@ -211,4 +210,6 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
+ <h2 id=fstrings">f'Strings</h2>
+ <h2 id=funktionen">Funktionen</h2>
 <p align="right">(<a href="#top">back to top</a>)</p>
