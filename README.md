@@ -46,12 +46,20 @@
   </ol>
   <li><a href="#projects">Mini Projects</a></li>
 </details>
-
+<h2 id=dt">Data-Type</h2>     
+    <h2 id=print">Print</h2>
+    <h2 id=operanden">Operanden</h2>
+    <h2 id=if-else">If-Else</h2>
+    <h2 id=random">Random</h2>
+    <h2 id=while-for">While For</h2>
+    <h2 id=ds">Data Structures</h2>
+    <h2 id=fstrings">f'Strings</h2>
+    <h2 id=funktionen">Funktionen</h2>
 
 
 <!-- ABOUT THE PROJECT -->
 
-<h2 id=dt>About The Project</h2>
+<h2 id=about-the-project>About The Project</h2>
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
