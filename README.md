@@ -55,6 +55,8 @@
 <!-- Data Type -->
 <h2 id="dt">Data Types</h2>
 
+<!-- Print -->
+<h2 id="print">Print</h2>
 
 <!-- Operanden -->
 <h2 id=operanden">Operanden</h2>
