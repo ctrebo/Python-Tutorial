@@ -32,7 +32,7 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
-  <a href="#about-the-project">About The Project</a>
+  <a href="#about-the-project">About The Project</a><br>
   <ol>     
     <li><a href="#dt">Data Types</a></li>
     <li><a href="#print">Print</a></li>
