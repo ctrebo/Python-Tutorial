@@ -33,8 +33,7 @@
 <details>
   <summary>Table of Contents</summary>
   <a href="#about-the-project">About The Project</a>
-  <ol>
-         
+  <ol>     
     <li><a href="#print">Print</a></li>
     <li><a href="#operanden">Operanden</a></li>
     <li><a href="#if-else">If-Else</a></li>
