@@ -34,6 +34,7 @@
   <summary>Table of Contents</summary>
   <a href="#about-the-project">About The Project</a>
   <ol>     
+    <li><a href="#dt">Data Types</a></li>
     <li><a href="#print">Print</a></li>
     <li><a href="#operanden">Operanden</a></li>
     <li><a href="#if-else">If-Else</a></li>
@@ -47,14 +48,6 @@
 </details>
     
     
-    
-    
-    
-    
-    
-   
-
-
 <!-- ABOUT THE PROJECT -->
 
 <h2 id=about-the-project>About The Project</h2>
@@ -94,7 +87,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 <!-- Data Type -->
-<li><a href="#dt">Data-Type</a></li>
+<h2 id=dt">Data Types/h2>
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
@@ -126,7 +119,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-<h2 id=dt">Data Types/h2>
+
 
 
 <!-- Print -->
