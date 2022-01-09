@@ -25,24 +25,26 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 </div>
-  <h1 align="center">Förderwochenkurs Python</h1>
+
+<h1 align="center">Förderwochenkurs Python</h1>
 
   
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary
+  <summary>Table of Contents</summary>
   <a href="#about-the-project">About The Project</a>
   <ol>
-    <li>
-      <a href="#getting-started">Data-Structures</a>      
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#dt">Data-Type</a></li>     
+    <li><a href="#print">Print</a></li>
+    <li><a href="#operanden">Operanden</a></li>
+    <li><a href="#if-else">If-Else</a></li>
+    <li><a href="#random">Random</a></li>
+    <li><a href="#while-for">While For</a></li>
+    <li><a href="#ds">Data Structures</a></li>
+    <li><a href="#fstrings">f'Strings</a></li>
+    <li><a href="#funktionen">Funktionen</a></li>
   </ol>
+  <li><a href="#projects">Mini Projects</a></li>
 </details>
 
 
