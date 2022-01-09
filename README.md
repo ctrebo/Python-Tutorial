@@ -50,7 +50,7 @@
     
 <!-- ABOUT THE PROJECT -->
 
-<h2 id=about-the-project>About The Project</h2>
+<h2 id="about-the-project">About The Project</h2>
 
 <!-- Data Type -->
 <h2 id="dt">Data Types</h2>
@@ -59,22 +59,22 @@
 <h2 id="print">Print</h2>
 
 <!-- Operanden -->
-<h2 id=operanden">Operanden</h2>
+<h2 id="operanden">Operanden</h2>
 
 <!-- If-else -->
-<h2 id=if-else">If-Else</h2>
+<h2 id="if-else">If-Else</h2>
 
 
 <!-- Random -->
-<h2 id=random">Random</h2>
+<h2 id="random">Random</h2>
 
 <!-- While For -->
-<h2 id=while-for">While For</h2>
+<h2 id="while-for">While For</h2>
 
 <!-- Data Structures -->
-<h2 id=ds">Data Structures</h2>
+<h2 id="ds">Data Structures</h2>
 
 
- <h2 id=fstrings">f'Strings</h2>
- <h2 id=funktionen">Funktionen</h2>
+ <h2 id="fstrings">f'Strings</h2>
+ <h2 id="funktionen">Funktionen</h2>
 
