@@ -1,4 +1,4 @@
-<h1><center>Files für Förderwochenkurs Python</center></h1>
+<h1><center>Förderwochenkurs Python</center></h1>
 
 
 <h2>Kapitelübersicht</h2>
