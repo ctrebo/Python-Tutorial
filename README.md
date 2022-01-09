@@ -30,10 +30,8 @@
   
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
-  <li>
-      <a href="#about-the-project">About The Project</a>
-  </li>
+  <summary>Table of Contents</summary
+  <a href="#about-the-project">About The Project</a>
   <ol>
     <li>
       <a href="#getting-started">Data-Structures</a>      
