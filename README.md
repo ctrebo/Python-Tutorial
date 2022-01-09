@@ -1,7 +1,7 @@
-#Förderwochenkurs Python
+# Förderwochenkurs Python
 
 
-##Kapitelübersicht
+## Kapitelübersicht
 1 - Data-Type <br>
 2 - Print <br>
 3 - Operanden <br>
@@ -12,7 +12,7 @@
 8 - 'f-Strings' <br>
 9 - Funktionen <br>
 
-##Projekte
+## Projekte
 
 Schere, Stein, Papier<br>
 Zufallszahl erraten(5 - Random)<br>
