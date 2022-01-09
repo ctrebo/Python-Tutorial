@@ -126,7 +126,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
+<h2 id=dt">Data Types/h2>
 
 
 <!-- Print -->
