@@ -63,8 +63,10 @@ In Python gibt es folgende Datentypen:
 
 Hinweis: Mit dem Befehl `type()` kann der Datentyp auch manuell herausgefunden werden
 ```Python
-print("Hallo Welt")
+print(type(4))
 ```
+<pre>Hallo</pre>
+
 
 <!-- Print -->
 <h2 id="print">Print</h2>
