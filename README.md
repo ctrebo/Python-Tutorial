@@ -54,10 +54,12 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 <h2 id="dt">Data Types</h2>
 
-* String
-* Int
-* Float
-* Bool
+In Python gibt es folgende Datentypen:
+
+* String --> "Hallo"
+* Int --> 4
+* Float --> 4.0
+* Bool --> True/False
 
 
 
