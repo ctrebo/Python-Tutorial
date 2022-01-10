@@ -76,11 +76,11 @@ Die Print-Funktion akzeptiert jeden Datentyp, jedoch dürfen verschiedene Datent
 Die gängigsten Operatoren in Python sind:
 <img src="images/Operatoren.png" alt="Logo">
 <figcaption class="caption">Quelle: W3Schools</figcaption>
-### String-Addition
-Auch Strings können mit dem `+` Operator zusammengefügt werden.<br>
+<h3>String-Addition</h3>
+Auch Strings können mit dem <code>+</code> Operator zusammengefügt werden.<br>
 Addiert man jedoch zwei verschiedene Datentypen miteinander(z.B "Hallo" + 4), wird ein Fehler angezeigt.<br>
-Um diesen Fehler zu beheben muss man die Zahl in einen String-Wert umwandeln. Dies geht mit der `str()` Funktion. (str(4) --> "4")
-### 
+Um diesen Fehler zu beheben muss man die Zahl in einen String-Wert umwandeln. Dies geht mit der <code>str()</code> Funktion. (str(4) --> "4")
+
 <!-- If-else -->
 <h2 id="if-else">If-Else</h2>
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dlore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
