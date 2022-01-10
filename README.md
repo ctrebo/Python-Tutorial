@@ -61,8 +61,9 @@ In Python gibt es folgende Datentypen:
 * Float --> 4.0
 * Bool --> True/False
 
-Hinweis: Mit dem Befehl `type()` kann der Datentyp auch manuell herausgefunden werden
-print(type("Hallo"))
+Hinweis: Mit dem Befehl `type()` kann der Datentyp auch manuell herausgefunden werden<br>
+print(type("Hallo"))<br>
+Output im Terminal:
 <pre><'class string'></pre>
 
 
