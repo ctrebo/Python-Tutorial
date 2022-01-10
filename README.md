@@ -68,7 +68,7 @@ Hinweis: Mit der `type()` Funktion kann der Datentyp auch manuell herausgefunden
 
 <!-- Print -->
 <h2 id="print">Print</h2>
-Mit der `print()` Funktion kann man in Python Werte im Terminal ausgeben lassen. 
+Mit der `print()` Funktion kann man in Python Werte im Terminal ausgeben lassen. <br>
 Die Print-Funktion akzeptiert jeden Datentyp, jedoch darf verschiedene Datentypen nicht einfach so mischen. Lösungen für dieses Problem sind entweder die 
 String-Addition oder sogenannte <a href="#fstrings">f-Strings</a>, auf welche wir später eingehen werden.
 `
