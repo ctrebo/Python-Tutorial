@@ -56,20 +56,22 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 In Python gibt es folgende Datentypen:
 
-* String --> "Hallo"
+* String --> "Hallo" (Wichtig: Alles zwischen zwei Anführungszeichen ist ein String, also auch "4" oder "4.0"
 * Int --> 4
 * Float --> 4.0
 * Bool --> True/False
 
-Hinweis: Mit dem Befehl `type()` kann der Datentyp auch manuell herausgefunden werden<br>
+Hinweis: Mit der `type()` Funktion kann der Datentyp auch manuell herausgefunden werden<br>
 <p>print(type("Hallo"))</p>
 <pre><'class string'></pre>
 
 
 <!-- Print -->
 <h2 id="print">Print</h2>
-Mit dem Print-Befehl
-
+Mit der `print()` Funktion kann man in Python Werte im Terminal ausgeben lassen. 
+Die Print-Funktion akzeptiert jeden Datentyp, jedoch darf verschiedene Datentypen nicht einfach so mischen. Lösungen für dieses Problem sind entweder die 
+String-Addition oder sogenannte <a href="#fstrings">f-Strings</a>, auf welche wir später eingehen werden.
+`
 <!-- Operanden -->
 <h2 id="operanden">Operanden</h2>
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
