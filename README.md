@@ -53,10 +53,12 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <!-- Data Type -->
 
 <h2 id="dt">Data Types</h2>
+
 * String
 * Int
 * Float
 * Bool
+
 
 
 <!-- Print -->
