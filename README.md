@@ -53,11 +53,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <!-- Data Type -->
 
 <h2 id="dt">Data Types</h2>
-In Python gibt es folgende Datentypen:
-<li>Strings</li>
-<li>Int</li>
-<li>Float</li>
-<li>Bool</li>
+* String
+* Int
+* Float
+* Bool
 
 
 <!-- Print -->
