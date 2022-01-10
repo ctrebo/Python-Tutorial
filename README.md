@@ -74,6 +74,7 @@ Die Print-Funktion akzeptiert jeden Datentyp, jedoch dürfen verschiedene Datent
 <!-- Operanden -->
 <h2 id="operanden">Operanden</h2>
 <img src="images/Operatoren.png" alt="Logo">
+<figcaption class="caption">Quelle: W3Schools</figcaption>
 
 <!-- If-else -->
 <h2 id="if-else">If-Else</h2>
