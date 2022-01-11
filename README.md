@@ -98,7 +98,7 @@ Dafür stehen einen folgende Vergleichsoperatoren zur verfügung:
 * Kleiner als: <code>a < b</code>
 * Kleiner-Gleich: <code>a <= b</code>
 
-<p> **Syntax**: Bei if-statements wird die Bedingung, beendet mit einem <code>:</code>, normal angeschrieben.<br>
+<p> ** Syntax **: Bei if-statements wird die Bedingung, beendet mit einem <code>:</code>, normal angeschrieben.<br>
 Der Teil, welcher nur unter der Bedingung ausgeführt werden soll, wird eingerückt.
 </p>
 
