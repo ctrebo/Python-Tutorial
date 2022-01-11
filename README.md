@@ -62,7 +62,11 @@ In Python gibt es folgende Datentypen:
 * Bool --> True/False
 
 Hinweis: Mit der `type()` Funktion kann der Datentyp auch manuell herausgefunden werden<br>
-<p>print(type("Hallo"))</p>
+
+```python
+print(type("Hallo))
+
+```
 <pre><'class string'></pre>
 
 
