@@ -106,7 +106,7 @@ Der Teil, welcher nur unter der Bedingung ausgeführt werden soll, wird eingerü
 if a == b:
     print("a und b sind gleich")
 ```
-###elif
+<h3>elif</h3>
 
 Elif-Statements sagen dem Programm, dass wenn die Bedingung darüber nicht eintrifft, es diese Bedingung überprüfen soll.
 
@@ -117,6 +117,18 @@ elif a != b:
     print("a und b sind ungleich")
 ```
 
+<h3>else</h3>
+
+Else-Statement bewirken, dass falls keine der übergeordneten Bedingungen eintrifft, diese ausgeführt werden soll. 
+
+```python
+if a > b:
+    print("a ist größer als b")
+elif a < b:
+    print("a ist kleiner als b")
+else:
+    print("a und b sind gleich groß")
+```
 <!-- Random -->
 <h2 id="random">Random</h2>
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
