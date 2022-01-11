@@ -79,7 +79,8 @@ Die gängigsten Operatoren in Python sind:
 <h3>String-Addition</h3>
 Auch Strings können mit dem <code>+</code> Operator zusammengefügt werden.<br>
 Addiert man jedoch zwei verschiedene Datentypen miteinander(z.B "Hallo" + 4), wird ein Fehler angezeigt.<br>
-Um diesen Fehler zu beheben muss man die Zahl in einen String-Wert umwandeln. Dies geht mit der <code>str()</code> Funktion. (str(4) --> "4")
+Um diesen Fehler zu beheben muss man die Zahl in einen String-Wert umwandeln. Dies geht mit der <code>str()</code> Funktion.ybr>
+<code>str(4)</code> --> <code>"4"</code>
 
 <!-- If-else -->
 <h2 id="if-else">If-Else</h2>
