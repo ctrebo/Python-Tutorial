@@ -67,8 +67,9 @@ Hinweis: Mit der `type()` Funktion kann der Datentyp auch manuell herausgefunden
 print(type("Hallo))
 
 ```
+<div style="background-color: rgb(50, 50, 50);">
 <pre><'class string'></pre>
-
+</div>
 
 <!-- Print -->
 <h2 id="print">Print</h2>
