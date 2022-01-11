@@ -139,8 +139,32 @@ Hier sind einige der wichtigsten Befehle der Bibliothek aufgelistet:
 * <code>random.choice(seq)</code>
 
 <!-- While For -->
-<h2 id="while-for">While For</h2>
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+<h2 id="while-for">While und For Schleife</h2>
+In Python gibt es 2 primäre Schleifen:
+
+* <code>while</code> loops
+* <code>for</code> loops 
+
+<h3>While-Schleife</h3>
+Mit der While-Schleife kann eine Reihe von Statements so lange ausgeführt werden, wie sie wahr ist.
+
+```python
+# Gib i so lange aus solange es kleiner als 5 ist.
+i = 1
+while i < 5:
+  print(i)
+  i += 1
+```
+
+<h3>For-Schleife</h3>
+Mit einer For-Schleife kann man über eine Reihe von Zahlen oder eine Datenstruktur iterieren.
+
+```python
+# Gib die Zahlen von 0 bis 5 aus(6 ist ausgeschlossen).
+for i in range(6):
+    print(i)
+```
+
 <!-- Data Structures -->
 
 <h2 id="ds">Data Structures</h2>
