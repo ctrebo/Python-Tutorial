@@ -25,7 +25,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
 </div>
 
-<h1 align="center">Förderwochenkurs Python</h1>
+<h1 align="center">Förderwochenkurs Python <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h1>
 
   
 <!-- TABLE OF CONTENTS -->
