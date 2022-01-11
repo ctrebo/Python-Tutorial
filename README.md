@@ -68,12 +68,7 @@ print(type("Hallo))
 
 ```
 
-```bat
 <pre><'class string'></pre>
-```
-<div style="background-color: rgb(50, 50, 50);">
-<pre><'class string'></pre>
-</div>
 
 <!-- Print -->
 <h2 id="print">Print</h2>
