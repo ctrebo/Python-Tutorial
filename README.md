@@ -131,7 +131,12 @@ else:
 ```
 <!-- Random -->
 <h2 id="random">Random</h2>
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Die Random-Bibliothek ist eine recht häufig verwendete Bibliothek in Python. <br>
+Anwendungsbeispiele sind z.B das Generieren einer Zufallszahl oder das zufällige auswählen eines Elements einer Liste. <br>
+Hier sind einige der wichtigsten Befehle der Bibliothek aufgelistet:
+
+* <code>random.randrange(start, stop)</code>
+* <code>random.choice(seq)</code>
 
 <!-- While For -->
 <h2 id="while-for">While For</h2>
@@ -147,12 +152,3 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 <h2 id="funktionen">Funktionen</h2>
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-
-
-+	Addition	x + y	
--	Subtraction	x - y	
-*	Multiplication	x * y	
-/	Division	x / y	
-%	Modulus	x % y	
-**	Exponentiation	x ** y	
-//	Floor division	x // y
