@@ -84,8 +84,22 @@ Um diesen Fehler zu beheben muss man die Zahl in einen String-Wert umwandeln. Di
 
 <!-- If-else -->
 <h2 id="if-else">If-Else</h2>
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dlore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Mit sogenannten "if-statements" kann man in Python eine Bedingung an die Ausführung eines Codes knüpfen.<br>
+Dafür stehen einen folgende Vergleichsoperatoren zur verfügung:
+* Gleichheit: <code>a == b</code>
+* Ungleichheit: <code>a != b</code>
+* Größer als: <code>a > b</code>
+* Größer-Gleich: <code>a >= b</code>
+* Kleiner als: <code>a < b</code>
+* Kleiner-Gleich: <code>a <= b</code>
 
+<p>Syntax: Bei if-statements wird die Bedingung, beendet mit einem <code>:</code>, normal angeschrieben.<br>
+Der Teil, welcher nur unter der Bedingung ausgeführt werden soll, wird eingerückt.
+</p>
+```Python
+if a == b:
+    print("a und b sind gleich")
+```
 
 <!-- Random -->
 <h2 id="random">Random</h2>
