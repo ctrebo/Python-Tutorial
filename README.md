@@ -139,11 +139,11 @@ Hier sind einige der wichtigsten Befehle der Bibliothek aufgelistet:
 * <code>random.choice(seq)</code>
 
 <!-- While For -->
-<h2 id="while-for">While und For Schleife</h2>
+<h2 id="while-for">While-Schleife und For-Schleife</h2>
 In Python gibt es 2 primäre Schleifen:
 
-* <code>while</code> loops
-* <code>for</code> loops 
+* <code>while</code>-Schleifen
+* <code>for</code>-Schleifen
 
 <h3>While-Schleife</h3>
 Mit der While-Schleife kann eine Reihe von Statements so lange ausgeführt werden, wie sie Bedingung wahr ist.
