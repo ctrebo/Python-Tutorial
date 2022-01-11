@@ -106,8 +106,16 @@ Der Teil, welcher nur unter der Bedingung ausgeführt werden soll, wird eingerü
 if a == b:
     print("a und b sind gleich")
 ```
+###elif
 
+Elif-Statements sagen dem Programm, dass wenn die Bedingung darüber nicht eintrifft, es diese Bedingung überprüfen soll.
 
+```python
+if a == b:
+    print("a und b sind gleich")
+elif a != b:
+    print("a und b sind ungleich")
+```
 
 <!-- Random -->
 <h2 id="random">Random</h2>
