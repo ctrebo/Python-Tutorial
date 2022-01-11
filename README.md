@@ -146,10 +146,11 @@ In Python gibt es 2 primäre Schleifen:
 * <code>for</code> loops 
 
 <h3>While-Schleife</h3>
-Mit der While-Schleife kann eine Reihe von Statements so lange ausgeführt werden, wie sie wahr ist.
+Mit der While-Schleife kann eine Reihe von Statements so lange ausgeführt werden, wie sie Bedingung wahr ist.
 
 ```python
 # Gib i so lange aus solange es kleiner als 5 ist.
+# Bedingung ist in diesem Fall i < 5
 i = 1
 while i < 5:
   print(i)
