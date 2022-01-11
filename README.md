@@ -88,8 +88,8 @@ Um diesen Fehler zu beheben muss man die Zahl in einen String-Wert umwandeln. Di
 
 <!-- If-else -->
 <h2 id="if-else">If-Else</h2>
-Mit sogenannten "if-statements" kann man in Python eine Bedingung an die Ausführung eines Codes knüpfen.<br>
-Dafür stehen einen folgende Vergleichsoperatoren zur verfügung:
+<p>Mit sogenannten "if-statements" kann man in Python eine Bedingung an die Ausführung eines Codes knüpfen.<br>
+Dafür stehen einen folgende Vergleichsoperatoren zur verfügung: </p>
 
 * Gleichheit: <code>a == b</code>
 * Ungleichheit: <code>a != b</code>
