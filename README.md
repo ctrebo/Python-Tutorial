@@ -180,13 +180,14 @@ Dabei wird ein gewisser teil des Programmesin eine Funktion geschrieben, und kan
 
 Eine Funktion wird folgendermaßen definiert und aufgerufen:
 ```python
-def NameDerFuktion(input):
+def NameDerFuktion():
     ...
     ...
 
 
-NameDerFunktion(input)
+NameDerFunktion()
 ```
+In die Klammern kann auch noch eine Variable geschrieben werden, welche NUR innerhalb der Funktion verarbeitet wird. Beim Aufrufen einer solchen Funktion müssen so viele Werte in die Klammer geschrieben werden, wie bei der Definition angegeben wurden.
 
 
 
