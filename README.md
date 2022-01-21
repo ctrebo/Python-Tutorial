@@ -176,7 +176,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 <h2 id="funktionen">Funktionen</h2>
 Wenn die Programme länger und komplexer werden, verwendet man oft Funktionen. <br>
-Dabei wird ein gewisser teil des Programmesin eine Funktion geschrieben, und kann unendlich oft im Programm aufgerufen werden.<br>
+Dabei wird ein gewisser teil des Programmes in eine Funktion geschrieben, und kann unendlich oft im Programm aufgerufen werden.<br>
 
 Eine Funktion wird folgendermaßen definiert und aufgerufen:
 ```python
