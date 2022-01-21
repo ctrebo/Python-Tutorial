@@ -30,7 +30,7 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Kapitel</summary>
-  <a href="#about-the-project">About The Project</a>
+  <a href="#about-the-project">Über das Projekt</a>
   <ol>     
     <li><a href="#dt">Data Types</a></li>
     <li><a href="#print">Print</a></li>
@@ -48,7 +48,7 @@
     
 <!-- ABOUT THE PROJECT -->
 
-<h2 id="about-the-project">About The Project</h2>
+<h2 id="about-the-project">Über das Projekt</h2>
 Dieser Kurs wurde im Rahmen der Förderwoche in der TFO Bruneck im Jahr 2022 erstellt.
 <!-- Data Type -->
 
