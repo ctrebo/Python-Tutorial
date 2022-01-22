@@ -64,7 +64,7 @@ In Python gibt es folgende Datentypen:
 Hinweis: Mit der `type()` Funktion kann der Datentyp auch manuell herausgefunden werden<br>
 
 ```python
-print(type("Hallo))
+print(type("Hallo"))
 
 ```
 
