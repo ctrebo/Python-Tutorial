@@ -38,7 +38,7 @@
     <li><a href="#if-else">If-Else</a></li>
     <li><a href="#random">Random</a></li>
     <li><a href="#while-for">While For</a></li>
-    <li><a href="#ds">Data Structures</a></li>
+    <li><a href="#ds">Listen</a></li>
     <li><a href="#fstrings">f'Strings</a></li>
     <li><a href="#funktionen">Funktionen</a></li>
   </ol>
@@ -166,10 +166,32 @@ for i in range(6):
     print(i)
 ```
 
-<!-- Data Structures -->
+<!-- Listen -->
 
-<h2 id="ds">Data Structures</h2>
-Die wichtigsten Datenstrukturen in Python sind Listen[], Tuples() und Sets{}. 
+<h2 id="lists">Listen</h2>
+Listen erlauben es mehrere Elemente in einer Variable zu speichern.
+```python
+# Deklarieren einer Liste
+list_ = [1, 2, 3]
+```
+Mit dem subscript Operator '[]' kann man auf die Element der Liste zugreifen. Dabei ist wichtig, dass der erste Index der Liste 0 ist.
+```python
+# Greife auf das 1. Element einer Liste zu
+list_ = [1, 2, 3]
+list_[0] = 5
+print(list_[0])
+```
+Elemente können mit 
+```python
+# Füge Zahl 4 in die Liste ein
+list_.append(4)
+```
+in die Liste eingefügt und mit
+```python
+# Entferne erstes Element der Liste 
+list_.pop(0)
+```
+entfernt werden.
 
 <h2 id="fstrings">f'Strings</h2>
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
