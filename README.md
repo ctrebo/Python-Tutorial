@@ -201,7 +201,20 @@ list_.pop(0)
 entfernt werden.
 
 <h2 id="fstrings">f'Strings</h2>
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+F-Strings sind eine großartige Methode um Strings zu formatieren.
+Vor f-Strings haben wir normalerweise ein '+' benutzt um z.B. Zahlen und Strings zu verbinden
+
+```python
+alter = 21
+name = "Ivan"
+print("Hallo, ich bin " + str(name) + " und ich bin " + alter + " Jaher alt")
+```
+Mit f-Strings geht es aber um eingies einfacher und übersichtlicher!
+```python
+alter = 21
+name = "Ivan"
+print(f"Hallo, ich bin {name} und ich bin {alter} Jaher alt")
+```
 
 <h2 id="funktionen">Funktionen</h2>
 Wenn die Programme länger und komplexer werden, verwendet man oft Funktionen. <br>
