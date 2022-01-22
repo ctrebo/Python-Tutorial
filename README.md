@@ -170,23 +170,28 @@ for i in range(6):
 
 <h2 id="lists">Listen</h2>
 Listen erlauben es mehrere Elemente in einer Variable zu speichern.
+
 ```python
 # Deklarieren einer Liste
 list_ = [1, 2, 3]
 ```
 Mit dem subscript Operator '[]' kann man auf die Element der Liste zugreifen. Dabei ist wichtig, dass der erste Index der Liste 0 ist.
+
 ```python
 # Greife auf das 1. Element einer Liste zu
 list_ = [1, 2, 3]
 list_[0] = 5
 print(list_[0])
 ```
+
 Elemente können mit 
+
 ```python
 # Füge Zahl 4 in die Liste ein
 list_.append(4)
 ```
 in die Liste eingefügt und mit
+
 ```python
 # Entferne erstes Element der Liste 
 list_.pop(0)
