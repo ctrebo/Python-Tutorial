@@ -175,7 +175,7 @@ Listen erlauben es mehrere Elemente in einer Variable zu speichern.
 # Deklarieren einer Liste
 list_ = [1, 2, 3]
 ```
-Mit dem subscript Operator '[]' kann man auf die Element der Liste zugreifen. Dabei ist wichtig, dass der erste Index der Liste 0 ist.
+Mit dem subscript Operator <code>'[ ]'</code> kann man auf die Element der Liste zugreifen. Dabei ist wichtig, dass der erste Index der Liste 0 ist.
 
 ```python
 # Greife auf das 1. Element einer Liste zu
