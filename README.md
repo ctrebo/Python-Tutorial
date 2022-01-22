@@ -49,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 
 <h2 id="about-the-project">Über das Projekt</h2>
-Dieser Kurs wurde im Rahmen der Förderwoche in der TFO Bruneck im Jahr 2022 erstellt. <hr style="height:2px;border-width:0;color:gray;background-color:black">
+Dieser Kurs wurde im Rahmen der Förderwoche in der TFO Bruneck im Jahr 2022 erstellt. <hr style="height:2px;border-width:0;color:gray;background-color:dark">
 <!-- Data Type -->
 
 <h2 id="dt">Data Types</h2>
