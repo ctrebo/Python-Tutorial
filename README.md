@@ -207,7 +207,7 @@ Vor f-Strings haben wir normalerweise ein '+' benutzt um z.B. Zahlen und Strings
 ```python
 alter = 21
 name = "Ivan"
-print("Hallo, ich bin " + name + " und ich bin " + int(alter) + " Jaher alt")
+print("Hallo, ich bin " + name + " und ich bin " + str(alter) + " Jaher alt")
 ```
 Mit f-Strings geht es aber um eingies einfacher und übersichtlicher!
 ```python
