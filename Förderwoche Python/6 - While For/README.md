@@ -1,3 +1,0 @@
--Endlosschleife (und break) 
--while-Schleife mit Bedingung
--for-Schleife(in range()) -->durch Listen loopen kommt in nächstem Abschnitt
