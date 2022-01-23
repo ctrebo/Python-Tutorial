@@ -237,6 +237,7 @@ def NameDerFuktion(a, b):
     print(result)
     
 NameDerFunktion(2, 3)    
+```
 
 <p>Output:</p>
 <code>5</code>
