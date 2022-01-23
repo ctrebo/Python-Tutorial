@@ -231,8 +231,15 @@ NameDerFunktion()
 ```
 In die Klammern kann auch noch eine Variable geschrieben werden, welche NUR innerhalb der Funktion verarbeitet wird. Beim Aufrufen einer solchen Funktion müssen so viele Werte in die Klammer geschrieben werden, wie bei der Definition angegeben wurden.
 
+```python
+def NameDerFuktion(a, b):
+    result = a + b
+    print(result)
+    
+NameDerFunktion(2, 3)    
 
-
+<p>Output:</p>
+<code>5</code>
 
 <img width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
