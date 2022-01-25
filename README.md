@@ -1,6 +1,3 @@
-https://drive.google.com/drive/folders/1Vn5ns7C19JOa-hKBBh69Kftz7jQ6R9MD?usp=sharing
-
-
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
